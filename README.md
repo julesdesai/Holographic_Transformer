@@ -1,3 +1,5 @@
+(THIS IS V1 - AN IMPROVED V2 IS UNDER DEVELOPMENT)
+
 # Holographic_Transformer
 Sandbox for string-theory/holographic inspired attention experiment (WIP!) This project implements and compares a novel holographic attention mechanism inspired by string theory with standard transformer attention.
 
